@@ -1,5 +1,10 @@
 # 💰 Smart Financial Data Assistant
 
+![Python](https://img.shields.io/badge/python-3.11%2B-blue)
+![Streamlit](https://img.shields.io/badge/streamlit-1.62-FF4B4B)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.8-F7931E)
+![License](https://img.shields.io/badge/license-MIT-lightgrey)
+
 An interactive Streamlit dashboard that turns the German Credit dataset into
 executive KPIs, risk segmentation, and an AI-powered natural-language
 assistant — built as a data analyst portfolio project.
